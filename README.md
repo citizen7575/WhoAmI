@@ -1,0 +1,17 @@
+# WhoAmI
+
+What I believe in and How I lead teams in Cybersecurity:
+
+
+
+We strive align with DevSecOps philosophy - Automation and solutions through code that are repeatable and scalable
+
+Work Effort Framework - We follow Scrum methodology for our project work: Milestones, Epics, Stories, Sprints, and all associated ceremonies
+
+Transparency - If you request access you will get it…..at least read only. The more eyes on something, the better
+
+Everyone has a Voice - Everyone on the team should feel empowered to speak up and reset our rudder. There are no stupid questions, arguments or 
+
+Democratic decisions when possible - We strive for consensus. When possible we make decisions together. 
+
+Shared Engineering effort - Other teams should have the freedom to contribute to our shared engineering efforts as their bandwidth allows. 
